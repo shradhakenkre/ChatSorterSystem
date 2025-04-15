@@ -38,7 +38,7 @@ Whether you’re a busy professional or someone who just wants a clean inbox, th
 4. The result is printed for your amusement.
 
 ---
-💻 Tech Stack
+##  💻 Tech Stack
 Language: Java
 
 Concepts Used:
